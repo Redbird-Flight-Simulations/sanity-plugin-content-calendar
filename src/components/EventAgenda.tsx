@@ -1,5 +1,5 @@
 import React, {ComponentType, useContext} from 'react'
-import {useSchema, getPublishedId, SanityPreview as Preview} from 'sanity'
+import {useSchema, getPublishedId, Preview} from 'sanity'
 import {useRouter} from 'sanity/router'
 import {Button, Box, Flex, Stack, Label, Inline} from '@sanity/ui'
 
